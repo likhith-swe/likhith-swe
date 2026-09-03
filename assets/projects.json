@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo description.",
+  "projects": [
+    {
+      "repo": "freellmapi",
+      "description": "OpenAI-compatible proxy stacking the free tiers of 28 LLM providers (~4B tokens/mo) with smart routing and failover."
+    },
+    {
+      "repo": "FloatChat",
+      "description": "AI-powered conversational interface for ARGO oceanographic data exploration, spatial filtering, and 3D visualization."
+    },
+    {
+      "repo": "NEXVRA",
+      "description": "High-performance digital engineering & autonomous AI client solutions platform built for scale."
+    },
+    {
+      "repo": "IGRIS",
+      "description": "Institutional quantitative research and algorithmic options analytics architecture with real-time risk telemetry."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated core competencies (0-100).",
+  "axes": [
+    {
+      "label": "Full-Stack",
+      "value": 88
+    },
+    {
+      "label": "AI / LLMs",
+      "value": 90
+    },
+    {
+      "label": "Python",
+      "value": 85
+    },
+    {
+      "label": "TypeScript",
+      "value": 82
+    },
+    {
+      "label": "Databases",
+      "value": 78
+    },
+    {
+      "label": "Systems / C++",
+      "value": 75
+    },
+    {
+      "label": "DSA",
+      "value": 80
+    }
+  ]
+}
